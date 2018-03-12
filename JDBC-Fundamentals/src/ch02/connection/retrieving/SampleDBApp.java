@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch2.connection.retrieving;
+package ch02.connection.retrieving;
 
 import java.sql.*;
 /**
